@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+eRuwT1cikRIh3LN18cdX8eoTk5pHPvoxuJgVnFYtqCiUqI31jDMcHd++l2nWE6zi28WddN+bCEwZvD4LhS+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lap\\OneDrive\\Documents\\autosuggest\\autosuggest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lap\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

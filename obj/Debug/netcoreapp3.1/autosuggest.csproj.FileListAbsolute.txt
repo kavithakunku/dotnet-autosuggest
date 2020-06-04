@@ -1,0 +1,15 @@
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\autosuggest.exe
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.AssemblyInfoInputs.cache
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.AssemblyInfo.cs
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\autosuggest.deps.json
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\autosuggest.runtimeconfig.json
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\autosuggest.runtimeconfig.dev.json
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\autosuggest.dll
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\autosuggest.pdb
+C:\Users\lap\OneDrive\Documents\autosuggest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.csprojAssemblyReference.cache
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.csproj.CoreCompileInputs.cache
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.csproj.CopyComplete
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.dll
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.pdb
+C:\Users\lap\OneDrive\Documents\autosuggest\obj\Debug\netcoreapp3.1\autosuggest.genruntimeconfig.cache
